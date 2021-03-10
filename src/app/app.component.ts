@@ -10,7 +10,7 @@ export class AppComponent {
 
   someFunction():void{
 
-    let x = 44;
+    let x = 4454;
 
   }
 }
